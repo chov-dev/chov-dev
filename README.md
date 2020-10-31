@@ -7,7 +7,7 @@
   ( •̀ ω •́ )✧
 </span>
 <style>
-  .emoju-box{
+  .emoji-box{
       background-color:black;
   }
   </style>

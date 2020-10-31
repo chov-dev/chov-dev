@@ -3,4 +3,11 @@
 ***
 ### HTML | CSS | JS | GO
 ***
-( •̀ ω •́ )✧
+<span class="emoji-box">
+  ( •̀ ω •́ )✧
+</span>
+<style>
+  .emoju-box{
+      background-color:black;
+  }
+  </style>
